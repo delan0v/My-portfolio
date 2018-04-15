@@ -1,0 +1,266 @@
+html
+{
+	height:80%;
+	width:100%;
+	margin:0px;
+}
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	margin:5%;
+	margin-top:3%;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+	height:90%;
+	width:90%;
+		
+}
+#container
+{
+	
+	width: 100%;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.rectangle
+{
+	
+	width: 95%;
+	height:10%;
+	margin:1%;
+	font-family: 'Arimo', sans-serif;
+	
+}
+.rectangle2
+{
+	clear: both;
+    position: fixed;
+    bottom: 0;
+	width: 95%;
+	height:5%;
+	margin:1%;
+	margin-top: 8%;
+	font-family: 'Arimo', sans-serif;
+	font-size:13px;
+	text-align:center;
+	
+}
+.square
+{
+	width: 48%;
+	height:80%;
+	float:left;
+	margin:0%
+}
+.square2
+{
+	width: 40%;
+	height:80%;
+	float:left;
+	padding-left: 10%;
+}
+.square3
+{
+	width: 50%;
+	height:80%;
+	float:left;
+	background: url("img/main.png") no-repeat;
+	
+}
+.square4
+{
+	width: 50%;
+	height:80%;
+	float:left;
+}
+.square5
+{
+	width: 50%;
+	height:80%;
+	float:left;
+	margin-left:0%;
+	padding-left:0%;
+}
+#logo
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:48px;
+	width:68%;
+	margin: 1%;
+	text-align:left;
+ 
+}
+#zegar
+{
+	float:right;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:48px;
+	width:28%;
+	margin:1%;
+	text-align:center;
+}
+.tile1
+{
+	margin: 2%;
+	width: 46%;
+	height: 32%;
+	background-color: #d33074;
+	float:left;
+	text-align:center;
+}
+.tile1:hover
+{
+	background-color: #c22063;
+}
+
+.tile11
+{
+	margin: 2%;
+	width: 46%;
+	height: 32%;
+	background-color: #3095d3;
+	float:left;
+	text-align:center;
+}
+.tile11:hover
+{
+	background-color: #2084c2;
+}
+.tile2
+{
+	margin: 2%;
+	width: 46%;
+	height: 32%;
+	background-color: #666666;
+	float:left;
+	text-align:center;
+}
+.tile2:hover
+{
+	background-color: #55555555;
+}
+.tile3
+{
+	margin: 2%;
+	width: 46%;
+	height: 32%;
+	background-color: #93c748;
+	float:left;
+	text-align:center;
+}
+.tile3:hover
+{
+	background-color: #82b638;
+}
+.tile4
+{
+	margin: 2%;
+	width: 96%;
+	height: 32%;
+	text-align:center;
+	background: url("img/img1.png") no-repeat;
+	
+}
+.tile5
+{
+	margin: 2%;
+	width: 96%;
+	height: 68%;
+	background: url("img/img2.png") no-repeat;
+	
+}
+.gh
+{
+	margin: 2%;
+	width: 30%;
+	height: 33%;
+	background-color: #24292e;
+	float:left;
+	text-align:center;
+}
+.gh:hover
+{
+	background-color: #14281d;
+}
+.fb
+{
+	margin: 2%;
+	width: 29%;
+	height: 33%;
+	background-color: #4668b3;
+	float:left;
+	text-align:center;
+	
+}
+.fb:hover
+{
+
+	background-color: #3557a2;
+}
+.in
+{
+	margin: 2%;
+	width: 29%;
+	height: 33%;
+	background-color: #0073b1;
+	float:left;
+	text-align:center;
+	
+}
+.in:hover
+{
+	background-color: #0052a0;
+}
+.icon-github-circled
+{
+	font-size:75px;
+	
+}
+.icon-facebook-1
+{
+	font-size:70px;
+	
+}
+.icon-linkedin-squared
+{
+	font-size:70px;
+	
+}
+
+.icon-user
+{
+	font-size:50px;
+	
+}
+.icon-laptop
+{
+	font-size:50px;
+	
+}
+.icon-graduation-cap
+{
+	font-size:50px;
+	
+}
+.icon-mail
+{
+	font-size:50px;
+	
+}
+.common
+{
+	font-size: 13px;
+}
+a.tilelink
+{
+	color: #ffffff;
+	 text-decoration: none;
+}
+#text
+{
+	margin:4%;
+	
+}
